@@ -1,0 +1,92 @@
+{
+  "filters": {
+    "Trail": [
+      {
+        "id": 0,
+        "Name": "CZOL446GUS15",
+        "isSelected": true
+      },
+      {
+        "id": 1,
+        "Name": "CACZ885G2305",
+        "isSelected": true
+      },
+      {
+        "id": 2,
+        "Name": "CVAA489ATR02",
+        "isSelected": true
+      },
+      {
+        "id": 3,
+        "Name": "CBPD952AUS26T",
+        "isSelected": true
+      }
+    ],
+    "Country": [
+      {
+        "id": 0,
+        "Name": "USA",
+        "isSelected": true
+      },
+      {
+        "id": 1,
+        "Name": "IN",
+        "isSelected": true
+      },
+      {
+        "id": 2,
+        "Name": "UK",
+        "isSelected": true
+      },
+      {
+        "id": 3,
+        "Name": "IN",
+        "isSelected": true
+      }
+    ],
+    "Site": [
+      {
+        "id": 0,
+        "Name": "CPA",
+        "isSelected": true
+      },
+      {
+        "id": 1,
+        "Name": "PCK",
+        "isSelected": true
+      },
+      {
+        "id": 2,
+        "Name": "CPK",
+        "isSelected": true
+      },
+      {
+        "id": 3,
+        "Name": "PAK",
+        "isSelected": true
+      }
+    ],
+    "Principal Investigator": [
+      {
+        "id": 0,
+        "Name": "NOELNA2",
+        "isSelected": true
+      },
+      {
+        "id": 1,
+        "Name": "ZACKJU1",
+        "isSelected": true
+      },
+      {
+        "id": 2,
+        "Name": "SANTOCL5",
+        "isSelected": true
+      },
+      {
+        "id": 3,
+        "Name": "SELEOCL5",
+        "isSelected": true
+      }
+    ]
+  }
+}

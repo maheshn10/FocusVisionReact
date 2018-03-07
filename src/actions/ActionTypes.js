@@ -1,0 +1,6 @@
+export const LogType = {
+  INSERT_LOG: 'INSERT_LOG',
+  ERROR_LOG: 'ERROR_LOG',
+  AUTH_LOG: 'AUTH_LOG',
+  SHOW_DATA: 'SHOW_DATA'
+};
